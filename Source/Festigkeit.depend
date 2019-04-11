@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1496754133 source:d:\codeblocks-ep\festigkeit\main.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1491996473 d:\codeblocks-ep\festigkeit\biegung.h
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1499939446 source:d:\codeblocks-ep\festigkeit\biegung.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1266065414 d:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1493899455 source:f:\codeblocks-ep\festigkeit\main.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1492000073 f:\codeblocks-ep\festigkeit\biegung.h
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1266065414 f:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1495383885 source:f:\codeblocks-ep\festigkeit\biegung.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1266097814 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1498552052 source:d:\codeblocks-ep\festigkeit\hilfsfunktionen.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1498552080 d:\codeblocks-ep\festigkeit\hilfsfunktionen.h
+	"Biegung.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1495383806 source:f:\codeblocks-ep\festigkeit\hilfsfunktionen.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1494496951 f:\codeblocks-ep\festigkeit\hilfsfunktionen.h
+	"Biegung.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
+1504604683 source:d:\data\codeblocks-ep\festigkeit\biegung.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+	<pthread.h>
+	<time.h>
+
+1504096520 d:\data\codeblocks-ep\festigkeit\biegung.h
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+	<pthread.h>
+
+1504165197 d:\data\codeblocks-ep\festigkeit\hilfsfunktionen.h
+	"Biegung.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+	<pthread.h>
+
+1504604477 source:d:\data\codeblocks-ep\festigkeit\hilfsfunktionen.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+	<pthread.h>
+
+1496754133 source:d:\data\codeblocks-ep\festigkeit\main.c
+	"Biegung.h"
+	"Hilfsfunktionen.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<graphics.h>
+
