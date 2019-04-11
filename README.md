@@ -2,7 +2,7 @@
 A program to visualize and calculate forces, stress and bending of a beam. Written in C.
 
 I wrote this in my 2nd semester of college so don't expect anything efficient or esthetic, however it is fully functional. Was great for learning C aswell.
-Also I used the worst possible graphics library that exists in the entire internet. It's so old that I had to downgrad my compiler for it to function. I had to hardcode almost every piece of graphic on the screen, the only available functions let me dot individual pixel, draw lines, draw circles, write and change the color. So every arrow and box had to be put together with lines, which was quite exhausting, however it was also very easy to use.
+Also I used the worst possible graphics library that exists in the entire internet. It's so old that I had to downgrade my compiler for it to function. I had to hardcode almost every piece of graphic on the screen, the only available functions let me dot individual pixel, draw lines, draw circles, write and change the color. So every arrow and box had to be put together with lines, which was quite exhausting, however it was also very straightforward to use.
 
 A full documentation I wrote for an essay is available in the root folder.
 
