@@ -1,3 +1,6 @@
+## Warning
+This is one of the first things I've ever programmed and it shows. If you are an experienced programer I strongly advise against looking at the source code as it may or may not make you angry.
+
 # 2D-FEM
 A program to visualize and calculate forces, stresses and bending of a beam. Written in C.
 
